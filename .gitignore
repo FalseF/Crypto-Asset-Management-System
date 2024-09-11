@@ -4,3 +4,7 @@
 
 /CryptoAssetManagementSystem/.vs/CryptoAssetManagementSystem
 /CryptoAssetManagementSystem/CryptoAssetManagementSystem/obj
+/CryptoAssetManagementSystem/CryptoAssetManagementSystem/bin/Debug/net8.0
+/CryptoAssetManagementSystem/Data/bin/Debug/net8.0
+/CryptoAssetManagementSystem/Domain/bin/Debug/net8.0
+/CryptoAssetManagementSystem/Service/bin/Debug/net8.0

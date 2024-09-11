@@ -1,7 +1,12 @@
+using CryptoAssetManagementSystem.Infrastructure;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Add services to the container.
+builder.Services.AddDbContextWithConfigurations(builder.Configuration);
 
 var app = builder.Build();
 
