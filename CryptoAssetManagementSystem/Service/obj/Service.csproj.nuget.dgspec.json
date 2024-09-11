@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Crypto-Asset-Management-System\\CryptoAssetManagementSystem\\Service\\Service.csproj": {}
+  },
+  "projects": {
+    "D:\\Crypto-Asset-Management-System\\CryptoAssetManagementSystem\\Data\\Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Crypto-Asset-Management-System\\CryptoAssetManagementSystem\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "D:\\Crypto-Asset-Management-System\\CryptoAssetManagementSystem\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Sohag\\.nuget\\packages\\",
+        "outputPath": "D:\\Crypto-Asset-Management-System\\CryptoAssetManagementSystem\\Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sohag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Crypto-Asset-Management-System\\CryptoAssetManagementSystem\\Service\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Crypto-Asset-Management-System\\CryptoAssetManagementSystem\\Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "D:\\Crypto-Asset-Management-System\\CryptoAssetManagementSystem\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\Sohag\\.nuget\\packages\\",
+        "outputPath": "D:\\Crypto-Asset-Management-System\\CryptoAssetManagementSystem\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sohag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Crypto-Asset-Management-System\\CryptoAssetManagementSystem\\Data\\Data.csproj": {
+                "projectPath": "D:\\Crypto-Asset-Management-System\\CryptoAssetManagementSystem\\Data\\Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
