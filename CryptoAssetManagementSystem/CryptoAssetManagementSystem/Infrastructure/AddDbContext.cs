@@ -1,5 +1,4 @@
-﻿using Data;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace CryptoAssetManagementSystem.Infrastructure
 {

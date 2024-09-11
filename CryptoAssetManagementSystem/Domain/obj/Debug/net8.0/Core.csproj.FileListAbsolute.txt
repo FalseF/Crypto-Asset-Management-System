@@ -1,0 +1,12 @@
+D:\Crypto-Asset-Management-System\CryptoAssetManagementSystem\Domain\bin\Debug\net8.0\Core.deps.json
+D:\Crypto-Asset-Management-System\CryptoAssetManagementSystem\Domain\bin\Debug\net8.0\Core.dll
+D:\Crypto-Asset-Management-System\CryptoAssetManagementSystem\Domain\bin\Debug\net8.0\Core.pdb
+D:\Crypto-Asset-Management-System\CryptoAssetManagementSystem\Domain\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Crypto-Asset-Management-System\CryptoAssetManagementSystem\Domain\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\Crypto-Asset-Management-System\CryptoAssetManagementSystem\Domain\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\Crypto-Asset-Management-System\CryptoAssetManagementSystem\Domain\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\Crypto-Asset-Management-System\CryptoAssetManagementSystem\Domain\obj\Debug\net8.0\Core.sourcelink.json
+D:\Crypto-Asset-Management-System\CryptoAssetManagementSystem\Domain\obj\Debug\net8.0\Core.dll
+D:\Crypto-Asset-Management-System\CryptoAssetManagementSystem\Domain\obj\Debug\net8.0\refint\Core.dll
+D:\Crypto-Asset-Management-System\CryptoAssetManagementSystem\Domain\obj\Debug\net8.0\Core.pdb
+D:\Crypto-Asset-Management-System\CryptoAssetManagementSystem\Domain\obj\Debug\net8.0\ref\Core.dll
